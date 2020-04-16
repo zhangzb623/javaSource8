@@ -36,3 +36,8 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
+.idea/workspace.xml
+src/com/.DS_Store
+src/com/company/.DS_Store
+src/com/company/source/.DS_Store
+src/com/company/test/
